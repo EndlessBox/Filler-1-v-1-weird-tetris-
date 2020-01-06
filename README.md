@@ -4,15 +4,18 @@ Créez votre joueur pour affronter d’autres étudiants sur le célèbre (ou pa
 
 # Objectives
 
-Algorithmie basique
-Entrées/sorties
+- Algorithmie basique
+- Entrées/sorties
 
 # Skills
 
-Algorithms & AI
-Unix
-Rigor
+- Algorithms & AI
+- Unix
+- Rigor
 
-# USAGE : "./ybouladh.filler -p1 `first_player` -p2 `second_player` -f `map`".
-# NB : There is other players and maps in resources folder.
-# Search Heat-map algorithm (so i can do the python move :D).
+# USAGE  
+- "./ybouladh.filler -p1 `first_player` -p2 `second_player` -f `map`".
+# NB
+- There is other players and maps in resources folder.
+# Search
+- Heat-map algorithm.
